@@ -1,0 +1,1 @@
+const blah = "bob loblaw's law blog";
